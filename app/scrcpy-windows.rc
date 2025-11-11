@@ -10,7 +10,7 @@ BEGIN
     BEGIN
       VALUE "FileDescription", "Display and control your Android device"
       VALUE "InternalName", "scrcpy"
-      VALUE "LegalCopyright", "Romain Vimont, Genymobile"
+      VALUE "LegalCopyright", "Memeitizer Limited"
       VALUE "OriginalFilename", "scrcpy.exe"
       VALUE "ProductName", "scrcpy"
       VALUE "ProductVersion", "3.3.3"
